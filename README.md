@@ -18,3 +18,8 @@ function calculateAsphalt(length, width, depth) {
 
   return tons.toFixed(2);
 }
+
+## Live Demo
+To see this formula working in a real-time, user-friendly interface with different units (yards, meters, tons), check out the full tool:
+
+👉 **[Free Asphalt Calculator](https://loveucalc.com/asphalt-calculator/)**
