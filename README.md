@@ -8,6 +8,12 @@ The standard density for asphalt is typically **145 lbs/cu ft** (or 2322 kg/m³)
 ### JavaScript Code Snippet
 You can use this function in your own projects:
 
+## Live Demo
+To see this formula working in a real-time, user-friendly interface with different units (yards, meters, tons), check out the full tool:
+
+👉 **[Free Asphalt Calculator](https://loveucalc.com/asphalt-calculator/)**
+
+
 ```javascript
 function calculateAsphalt(length, width, depth) {
   // Length and Width in feet, Depth in inches
@@ -19,7 +25,3 @@ function calculateAsphalt(length, width, depth) {
   return tons.toFixed(2);
 }
 
-## Live Demo
-To see this formula working in a real-time, user-friendly interface with different units (yards, meters, tons), check out the full tool:
-
-👉 **[Free Asphalt Calculator](https://loveucalc.com/asphalt-calculator/)**
